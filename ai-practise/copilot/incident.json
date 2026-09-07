@@ -1,0 +1,14 @@
+{
+  "incident_id": 1,
+  "severity": "critical",
+  "employee": "Alex",
+  "source_ip": "203.0.113.10",
+  "events": [
+    "Unusual login",
+    "Multiple failed logins",
+    "Privilege escalation",
+    "Admin API access",
+    "Sensitive database access",
+    "Large data download"
+  ]
+}
